@@ -7,4 +7,4 @@ Module used:
 Command to download modules:
   - pip install PythonTurtle
   
-For output referance please visit Instagram page: @python_projects_
+For output referance please visit Instagram page: https://www.instagram.com/hack_smashes/
